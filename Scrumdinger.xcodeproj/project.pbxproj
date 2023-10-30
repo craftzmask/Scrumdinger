@@ -16,6 +16,7 @@
 		B455F0F22AEB6142006579A3 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B455F0F12AEB6142006579A3 /* CardView.swift */; };
 		B455F0F42AEB6735006579A3 /* TrailingIconLabelStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = B455F0F32AEB6735006579A3 /* TrailingIconLabelStyle.swift */; };
 		B455F0FC2AEF69E1006579A3 /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B455F0FB2AEF69E1006579A3 /* ScrumsView.swift */; };
+		B455F0FE2AEF72B1006579A3 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B455F0FD2AEF72B1006579A3 /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		B455F0F12AEB6142006579A3 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		B455F0F32AEB6735006579A3 /* TrailingIconLabelStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrailingIconLabelStyle.swift; sourceTree = "<group>"; };
 		B455F0FB2AEF69E1006579A3 /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
+		B455F0FD2AEF72B1006579A3 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				B455F0E42AEB5089006579A3 /* Preview Content */,
 				B455F0F12AEB6142006579A3 /* CardView.swift */,
 				B455F0F32AEB6735006579A3 /* TrailingIconLabelStyle.swift */,
+				B455F0FD2AEF72B1006579A3 /* DetailView.swift */,
 			);
 			path = Scrumdinger;
 			sourceTree = "<group>";
@@ -161,6 +164,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B455F0F02AEB5DD2006579A3 /* DailyScrum.swift in Sources */,
+				B455F0FE2AEF72B1006579A3 /* DetailView.swift in Sources */,
 				B455F0F42AEB6735006579A3 /* TrailingIconLabelStyle.swift in Sources */,
 				B455F0EE2AEB5A4A006579A3 /* Theme.swift in Sources */,
 				B455F0FC2AEF69E1006579A3 /* ScrumsView.swift in Sources */,
